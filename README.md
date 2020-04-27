@@ -1,6 +1,6 @@
 ### SPOUT
 
-<a href="https://github.com/leadedge/leadedge.github.io/blob/gh-pages/SpoutUserManual.pdf" target="_blank">Spout</a> is a frame sharing system for Microsoft Windows, which allows sharing of graphics between applications in a similar way to [Syphon](http://syphon.v002.info/) for the Mac. Spout supports DirectX 9, DirectX 11 and OpenGL textures. The installer includes a virtual webcam, utility programs, a developer SDK with sample applications and saves system settings required for correct operation.  
+<a href="https://github.com/leadedge/leadedge.github.io/blob/gh-pages/SpoutUserManual.pdf" target="_blank">Spout</a> is a system for Microsoft Windows, which provides GPU accelerated sharing of graphics between applications in a similar way to [Syphon](http://syphon.v002.info/) for the Mac. Spout supports DirectX 9, DirectX 11 and OpenGL textures. The installer includes a virtual webcam, utility programs, a developer SDK with sample applications and saves system settings required for correct operation.  
 **<a href="https://github.com/leadedge/leadedge.github.io/raw/gh-pages/Spout_2006_update-2a.zip">Download</a>** 
  
 
