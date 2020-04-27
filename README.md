@@ -29,7 +29,9 @@ If you want to do your own thing, there is an <a href="https://github.com/leaded
 
 [addon for OpenFrameworks](https://github.com/leadedge/ofxNDI).
 
-### Donations
+### Donations  
+Spout is open source software designed to help your own developments and is integrated into many other applications which you may use regularly. Ongoing development, continued maintenance and support takes time and money, and there is no company or commercial income to support it. So please become a supporter and donate to help keep the project going. Donations are not for profit, and are used to offset ongoing costs for the website and continued development.  
+Select the amount you would like to donate.  
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
 <input type="hidden" />
 <select name="hosted_button_id" size="1">
