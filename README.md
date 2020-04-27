@@ -1,7 +1,6 @@
 ## SPOUT
 
-“Spout” is a video frame sharing system for Microsoft Windows, which allows sharing of OpenGL textures between applications in a similar way to [Syphon](http://syphon.v002.info/) for the Mac. Spout supports DirectX 9, DirectX 11 and OpenGL textures and includes a developer SDK and sample applications. Read the [Documentation](https://github.com/leadedge/Spout2/blob/master/SpoutSDK/Documentation/SpoutSDK.pdf).  
-The Spout installer will set up a folder on your system that contains all the information required to develop your own applications as well as pre-built plugins, programs and utilities required for correct operation.  
+“Spout” is a video frame sharing system for Microsoft Windows, which allows sharing of OpenGL textures between applications in a similar way to [Syphon](http://syphon.v002.info/) for the Mac. Spout supports DirectX 9, DirectX 11 and OpenGL textures and includes a developer SDK and sample applications. Read the [Documentation](https://github.com/leadedge/Spout2/blob/master/SpoutSDK/Documentation/SpoutSDK.pdf). The Spout installer will set up a folder on your system that contains all the information required to develop your own applications as well as pre-built plugins, programs and utilities required for correct operation.  
 **[Download](https://github.com/leadedge/Spout2/releases/download/2.006/Spout_2006_update-3.zip)**  
  
 
@@ -12,15 +11,13 @@ The Spout installer will set up a folder on your system that contains all the in
 
 ### SPOUT TO NDI
 
-“Spout to NDI” is a set of programs that allow Spout senders and receivers to share video, not only with each other but also by way of a network using <a href="https://newtek.com/ndi" target="_blank">NewTek NDI</a> (“Network Device Interface”) protocol.  
-Unzip the distribution file to any convenient folder.  
+“Spout to NDI” is a set of programs that allow Spout senders and receivers to share video, not only with each other but also by way of a network using <a href="https://newtek.com/ndi" target="_blank">NewTek NDI</a> (“Network Device Interface”) protocol. Unzip the distribution file to any convenient folder.  
 **[Download]()**  
 
 
 ### NDI MODULES
 
-As well as the converter programs, there are 32 and 64 bit modules developed specifically for [Magic Music Visuals](https://magicmusicvisuals.com) for sending to and receiving from NDI. Binaries and source code are available.  
-Follow the release instructions.  
+As well as the converter programs, there are 32 and 64 bit modules developed specifically for [Magic Music Visuals](https://magicmusicvisuals.com) for sending to and receiving from NDI. Binaries and source code are available. Follow the release instructions.  
 **[Download](https://github.com/leadedge/MagicNDI/releases)**. 
 
 
