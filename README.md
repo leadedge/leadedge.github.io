@@ -27,8 +27,6 @@ Follow the release instructions.
 ### NDI addon
 If you want to do your own thing, there is an <a href="https://github.com/leadedge/ofxNDI/" target="_blank">addon for OpenFrameworks</a>  
 
-[addon for OpenFrameworks](https://github.com/leadedge/ofxNDI {:target="_blank"}).
-
 ### Support  
 For general questions please visit the <a href="https://spout.discourse.group/" target="_blank">Spout Discourse group.  
  
