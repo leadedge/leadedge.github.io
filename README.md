@@ -20,9 +20,11 @@
 As well as the converter programs, there are 32 and 64 bit modules developed specifically for [Magic Music Visuals](https://magicmusicvisuals.com) for sending to and receiving from NDI. Binaries and source code are available. Follow the release instructions.  
 **[Download](https://github.com/leadedge/MagicNDI/releases)**. 
 
-
 ### NDI addon
 If you want to do your own thing, there is an <a href="https://github.com/leadedge/ofxNDI/" target="_blank">addon for OpenFrameworks</a>  
+
+### More  
+Explore the <a href="https://github.com/leadedge" target="_blank">repositories</a> for additional developments.
 
 ### Support  
 For general questions please visit the <a href="https://spout.discourse.group/" target="_blank">Spout Discourse group.  
