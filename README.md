@@ -6,7 +6,7 @@
 
 ### SPOUT CONTROLS
 
-<a href="https://github.com/leadedge/leadedge.github.io/blob/gh-pages/SpoutControls.pdf" target="_blank">SpoutControls</a> is a programmer aid to develop a Spout sender that will control a Spout receiver. A SpoutController FreeframeGL receiver plugin is provided that adapts it’s application user interface to that of the Sender so that you can use it as if it was a stand-alone plugin and forget about the sender app itself. Examples for Openframeworks, Cinder and Processing can be used as a guide for developing others.   
+<a href="https://github.com/leadedge/leadedge.github.io/blob/gh-pages/SpoutControls.pdf" target="_blank">SpoutControls</a> is a programmer aid to develop a Spout sender that will control a Spout receiver. A SpoutController FreeframeGL receiver plugin is provided that adapts it’s application user interface to that of the Sender so that you can use it as if the sender was a stand-alone plugin and forget about the sender app itself. Examples for Openframeworks, Cinder and Processing can be used as a guide for developing others.   
 **<a href="https://github.com/leadedge/leadedge.github.io/raw/gh-pages/SpoutControls_setup_V1.010.zip">Download</a>**  
 
 ### SPOUT TO NDI
@@ -24,13 +24,13 @@ As well as the converter programs, there are 32 and 64 bit modules developed spe
 If you want to do your own thing, there is an <a href="https://github.com/leadedge/ofxNDI/" target="_blank">addon for OpenFrameworks</a>  
 
 ### INSTALLATIONS
-Spout installers are built with <a href="https://jrsoftware.org/isinfo.php" target="_blank">Inno Setup</a>. Nothing is installed on your system that runs in the background, and none of your system information is collected at any time. Spout installations have absolutely no advertisements or third-party applications of any kind and can be easily and cleanly uninstalled from your system at any time.
+Spout installers are built with <a href="https://jrsoftware.org/isinfo.php" target="_blank">Inno Setup</a>. Nothing is installed on your system that runs in the background, and none of your system information is collected at any time. Spout installations have absolutely no advertisements or third-party applications of any kind and can be easily and cleanly uninstalled from your system.
 
 ### More  
-Explore the <a href="https://github.com/leadedge" target="_blank">repositories</a> for additional developments.
+Explore my other <a href="https://github.com/leadedge" target="_blank">repositories</a> for additional developments.
 
 ### Contact and support  
-For general questions please visit the <a href="https://spout.discourse.group/" target="_blank">Spout Discourse group.  
+Please visit the <a href="https://spout.discourse.group/" target="_blank">Spout Discourse group.  
  
 ### Donations  
 Spout is open source software designed to help your own developments and is integrated into many other applications which you may use regularly. Ongoing development, continued maintenance and support takes time and money, and there is no company or commercial income to support it. So please become a supporter and donate to help keep the project going. Donations are not for profit, and are used to offset ongoing costs for the website and continued development.  
