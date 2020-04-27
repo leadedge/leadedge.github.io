@@ -7,7 +7,7 @@
 ### SPOUT CONTROLS
 
 <a href="https://github.com/leadedge/leadedge.github.io/blob/gh-pages/SpoutControls.pdf" target="_blank">SpoutControls</a> is a programmer aid to develop a controlled Spout Sender that will react to controls specific to the application. Examples for Openframeworks, Cinder and Processing can be used as a guide for developing others. The “SpoutController” FreeframeGL plugin adapts it’s user interface to that of the Sender so that you can forget about the sender app itself.  
-**<a href="https://github.com/leadedge/leadedge.github.io/raw/gh-pages/SpoutControls_setup_V1.010.zip" target="_blank">Download</a>**  
+**<a href="https://github.com/leadedge/leadedge.github.io/raw/gh-pages/SpoutControls_setup_V1.010.zip">Download</a>**  
 
 ### SPOUT TO NDI
 
