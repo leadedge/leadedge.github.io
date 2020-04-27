@@ -1,8 +1,9 @@
 ## SPOUT
 
 “Spout” is a video frame sharing system for Microsoft Windows, which allows sharing of OpenGL textures between applications in a similar way to [Syphon](http://syphon.v002.info/) for the Mac. Spout supports DirectX 9, DirectX 11 and OpenGL textures and includes a developer SDK and sample applications. Read the [Documentation](https://github.com/leadedge/Spout2/blob/master/SpoutSDK/Documentation/SpoutSDK.pdf).  
+The Spout installer will set up a folder on your system that contains all the information required to develop your own applications as well as pre-built plugins, programs and utilities required for correct operation.  
 **[Download](https://github.com/leadedge/Spout2/releases/download/2.006/Spout_2006_update-3.zip)**  
- The Spout installer will set up a folder on your system that contains all the information required to develop your own applications as well as pre-built plugins, programs and utilities required for correct operation.
+ 
 
 ### SPOUT CONTROLS
 
@@ -12,21 +13,38 @@
 ### SPOUT TO NDI
 
 “Spout to NDI” is a set of programs that allow Spout senders and receivers to share video, not only with each other but also by way of a network using <a href="https://newtek.com/ndi" target="_blank">NewTek NDI</a> (“Network Device Interface”) protocol.  
-**[Download]()**
 Unzip the distribution file to any convenient folder.  
+**[Download]()**  
+
 
 ### NDI MODULES
 
 As well as the converter programs, there are 32 and 64 bit modules developed specifically for [Magic Music Visuals](https://magicmusicvisuals.com) for sending to and receiving from NDI. Binaries and source code are available.  
-**[Download]**(https://github.com/leadedge/MagicNDI/releases). 
-Follow the release instructions.
+Follow the release instructions.  
+**[Download](https://github.com/leadedge/MagicNDI/releases)**. 
+
 
 ### NDI addon
 If you want to do your own thing, there is an <a href="https://github.com/leadedge/ofxNDI/" target="_blank">addon for OpenFrameworks</a>  
 
 [addon for OpenFrameworks](https://github.com/leadedge/ofxNDI).
 
-
+### Donations
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
+<input type="hidden" />
+<select name="hosted_button_id" size="1">
+<option value="ELERGSYMBQ7AY">I would like to donate</option>
+<option value="ELERGSYMBQ7AY">$10</option>
+<option value="W744NJV85V35L">$20</option>
+<option value="CEBT3ZXWYL85C">$30</option>
+<option value="8WXVVDDXH2MVS">$50</option>
+<option value="FPUTNLLRVU8GS">$100</option>
+<option value="D9YW6QCYPYF4C">$150</option>
+<option value="K2FVPYE9653BN">$200</option>
+<option value="3J48EZ3PX73A8">$250</option>
+</select>
+<input alt="PayPal – The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_AU/i/btn/btn_donate_SM.gif" type="image" />
+<img style="display: none !important;" hidden="" src="https://www.paypalobjects.com/en_AU/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form>
 
 
 
