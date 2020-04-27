@@ -27,8 +27,11 @@ Follow the release instructions.
 ### NDI addon
 If you want to do your own thing, there is an <a href="https://github.com/leadedge/ofxNDI/" target="_blank">addon for OpenFrameworks</a>  
 
-[addon for OpenFrameworks](https://github.com/leadedge/ofxNDI).
+[addon for OpenFrameworks](https://github.com/leadedge/ofxNDI {:target="_blank"}).
 
+### Support  
+For general questions please visit the <a href="https://spout.discourse.group/" target="_blank">Spout Discourse group.  
+ 
 ### Donations  
 Spout is open source software designed to help your own developments and is integrated into many other applications which you may use regularly. Ongoing development, continued maintenance and support takes time and money, and there is no company or commercial income to support it. So please become a supporter and donate to help keep the project going. Donations are not for profit, and are used to offset ongoing costs for the website and continued development.  
 Select the amount you would like to donate.  
