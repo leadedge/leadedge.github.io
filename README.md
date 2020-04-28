@@ -39,22 +39,21 @@ Explore my other <a href="https://github.com/leadedge" target="_blank">repositor
 Please visit the <a href="https://spout.discourse.group/" target="_blank">Spout Discourse group.  
  
 ### Donations  
-Spout is open source software designed to help your own developments and is integrated into many applications which you may use regularly. Ongoing development takes dedication and time, and there is no company or commercial income to support it. So please become a supporter and donate to help keep the project going. Donations are not for profit, and are used to offset ongoing costs for the website and continued development.
+Spout is open source software designed to help your own developments and is integrated into many applications which you may use regularly. Ongoing development takes dedication and time, and there is no company or commercial income to support it. So please become a supporter and donate to help keep the project going. Donations are not for profit, and are used to offset ongoing costs for the website and continued development.<br>
 <center>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" /><br/>
-<input type="hidden" /><br/>
-<select name="hosted_button_id" size="1"><br/>
-<option value="ELERGSYMBQ7AY">I would like to donate</option><br/>
-<option value="ELERGSYMBQ7AY">$10</option><br/>
-<option value="W744NJV85V35L">$20</option><br/>
-<option value="CEBT3ZXWYL85C">$30</option><br/>
-<option value="8WXVVDDXH2MVS">$50</option><br/>
-<option value="FPUTNLLRVU8GS">$100</option><br/>
-<option value="D9YW6QCYPYF4C">$150</option><br/>
-<option value="K2FVPYE9653BN">$200</option><br/>
-<option value="3J48EZ3PX73A8">$250</option><br/>
-</select><br/>
-<input alt="PayPal – The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_AU/i/btn/btn_donate_SM.gif" type="image" /><br/>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" /><br>
+<input type="hidden" /><br>
+<select name="hosted_button_id" size="1"><br>
+<option value="ELERGSYMBQ7AY">I would like to donate</option><br>
+<option value="ELERGSYMBQ7AY">$10</option><br>
+<option value="W744NJV85V35L">$20</option><br>
+<option value="CEBT3ZXWYL85C">$30</option><br>
+<option value="8WXVVDDXH2MVS">$50</option><br>
+<option value="FPUTNLLRVU8GS">$100</option><br>
+<option value="D9YW6QCYPYF4C">$150</option><br>
+<option value="K2FVPYE9653BN">$200</option><br>
+<option value="3J48EZ3PX73A8">$250</option><br>
+</select><br/><input alt="PayPal – The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_AU/i/btn/btn_donate_SM.gif" type="image" /><br>
 <img style="display: none !important;" hidden="" src="https://www.paypalobjects.com/en_AU/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form>
 </center>
 
