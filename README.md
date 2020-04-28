@@ -12,16 +12,6 @@
 <a href="https://github.com/leadedge/leadedge.github.io/raw/gh-pages/SpoutToNDI_2005.zip"><b>Download</b></a>  
 </center>
 
-### NDI MODULES
-
-As well as the converter programs, there are 32 and 64 bit modules developed specifically for <a href="https://magicmusicvisuals.com" target="_blank">Magic Music Visuals</a> for sending to and receiving from NDI. Binaries and source code are available. Follow the release instructions.  
-<center>
-<a href="https://github.com/leadedge/MagicNDI/releases"><b>Download</b></a>  
-</center>
-
-### NDI addon
-If you want to do your own thing, there is an <a href="https://github.com/leadedge/ofxNDI/" target="_blank">addon for OpenFrameworks</a>  
-
 ### INSTALLATIONS
 Spout installers are built with <a href="https://jrsoftware.org/isinfo.php" target="_blank">Inno Setup</a>. Nothing is installed on your system that runs in the background, and none of your system information is collected at any time. Spout installations have absolutely no advertisements or third-party applications of any kind and can be easily and cleanly uninstalled from your system.
 
