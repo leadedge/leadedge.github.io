@@ -1,8 +1,9 @@
 ### SPOUT
 
 <a href="https://github.com/leadedge/leadedge.github.io/blob/gh-pages/SpoutUserManual.pdf" target="_blank">Spout</a> is a system for Microsoft Windows, which provides GPU accelerated sharing of graphics between applications in a similar way to [Syphon](http://syphon.v002.info/) for the Mac. Spout supports DirectX 9, DirectX 11 and OpenGL textures. The installer includes a virtual webcam, utility programs, a developer SDK with sample applications and saves system settings required for correct operation.  
+<center>
 **<a href="https://github.com/leadedge/leadedge.github.io/raw/gh-pages/Spout_2006_update-2a.zip">Download</a>** 
- 
+</center>
 
 ### SPOUT CONTROLS
 
@@ -50,7 +51,7 @@ Spout is open source software designed to help your own developments and is inte
 </select><br/>
 <input alt="PayPal – The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_AU/i/btn/btn_donate_SM.gif" type="image" /><br/>
 <img style="display: none !important;" hidden="" src="https://www.paypalobjects.com/en_AU/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form>
-<center/>
+</center>
 
 
 
