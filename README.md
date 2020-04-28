@@ -36,7 +36,7 @@ Please visit the <a href="https://spout.discourse.group/" target="_blank">Spout 
 ### Donations  
 Spout is open source software designed to help your own developments and is integrated into many applications which you may use regularly. Ongoing development takes dedication and time, and there is no company or commercial income to support it. So please become a supporter and donate to help keep the project going. Donations are not for profit, and are used to offset ongoing costs for the website and continued development.
 <center>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" /><br/>
 <input type="hidden" /><br/>
 <select name="hosted_button_id" size="1"><br/>
 <option value="ELERGSYMBQ7AY">I would like to donate</option><br/>
