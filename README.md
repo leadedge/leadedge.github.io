@@ -5,13 +5,6 @@
 <a href="https://github.com/leadedge/leadedge.github.io/raw/gh-pages/Spout_2006_update-2a.zip"><b>Download</b></a>
 </center>
 
-### SPOUT CONTROLS
-
-<a href="https://github.com/leadedge/leadedge.github.io/blob/gh-pages/SpoutControls.pdf" target="_blank">SpoutControls</a> is a programmer aid to develop a Spout sender that will control a Spout receiver. A FreeframeGL receiver plugin is provided that adapts it’s application user interface to that of the Sender so that you can use it as if the sender was a stand-alone plugin and forget about the sender app itself. Examples for Openframeworks, Cinder and Processing can be used as a guide for developing others. 
-<center>
-<a href="https://github.com/leadedge/leadedge.github.io/raw/gh-pages/SpoutControls_setup_V1.010.zip"><b>Download</b></a>  
-</center>
-
 ### SPOUT TO NDI
 
 <a href="https://github.com/leadedge/leadedge.github.io/blob/gh-pages/SpoutToNDI_2005.pdf">Spout to NDI</a> is a set of programs that allow Spout senders and receivers to share video, not only with each other but also by way of a network using the Newtek <a href="https://www.ndi.tv/" target="_blank">NDI</a> (“Network Device Interface”) protocol. Unzip the distribution file to any convenient folder.  
