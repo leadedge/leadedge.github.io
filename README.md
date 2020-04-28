@@ -2,24 +2,29 @@
 
 <a href="https://github.com/leadedge/leadedge.github.io/blob/gh-pages/SpoutUserManual.pdf" target="_blank">Spout</a> is a system for Microsoft Windows, which provides GPU accelerated sharing of graphics between applications in a similar way to [Syphon](http://syphon.v002.info/) for the Mac. Spout supports DirectX 9, DirectX 11 and OpenGL textures. The installer includes a virtual webcam, utility programs, a developer SDK with sample applications and saves system settings required for correct operation.  
 <center>
-**<a href="https://github.com/leadedge/leadedge.github.io/raw/gh-pages/Spout_2006_update-2a.zip">Download</a>** 
+<a href="https://github.com/leadedge/leadedge.github.io/raw/gh-pages/Spout_2006_update-2a.zip"><b>Download</b></a>
 </center>
 
 ### SPOUT CONTROLS
 
-<a href="https://github.com/leadedge/leadedge.github.io/blob/gh-pages/SpoutControls.pdf" target="_blank">SpoutControls</a> is a programmer aid to develop a Spout sender that will control a Spout receiver. A FreeframeGL receiver plugin is provided that adapts it’s application user interface to that of the Sender so that you can use it as if the sender was a stand-alone plugin and forget about the sender app itself. Examples for Openframeworks, Cinder and Processing can be used as a guide for developing others.   
-**<a href="https://github.com/leadedge/leadedge.github.io/raw/gh-pages/SpoutControls_setup_V1.010.zip">Download</a>**  
+<a href="https://github.com/leadedge/leadedge.github.io/blob/gh-pages/SpoutControls.pdf" target="_blank">SpoutControls</a> is a programmer aid to develop a Spout sender that will control a Spout receiver. A FreeframeGL receiver plugin is provided that adapts it’s application user interface to that of the Sender so that you can use it as if the sender was a stand-alone plugin and forget about the sender app itself. Examples for Openframeworks, Cinder and Processing can be used as a guide for developing others. 
+<center>
+<a href="https://github.com/leadedge/leadedge.github.io/raw/gh-pages/SpoutControls_setup_V1.010.zip"><b>Download</b></a>  
+</center>
 
 ### SPOUT TO NDI
 
 <a href="https://github.com/leadedge/leadedge.github.io/blob/gh-pages/SpoutToNDI_2005.pdf">Spout to NDI</a> is a set of programs that allow Spout senders and receivers to share video, not only with each other but also by way of a network using the Newtek <a href="https://www.ndi.tv/" target="_blank">NDI</a> (“Network Device Interface”) protocol. Unzip the distribution file to any convenient folder.  
-**[Download](https://github.com/leadedge/leadedge.github.io/raw/gh-pages/SpoutToNDI_2005.zip)**  
-
+<center>
+<a href="https://github.com/leadedge/leadedge.github.io/raw/gh-pages/SpoutToNDI_2005.zip"><b>Download</b></a>  
+</center>
 
 ### NDI MODULES
 
 As well as the converter programs, there are 32 and 64 bit modules developed specifically for <a href="https://magicmusicvisuals.com" target="_blank">Magic Music Visuals</a> for sending to and receiving from NDI. Binaries and source code are available. Follow the release instructions.  
-**[Download](https://github.com/leadedge/MagicNDI/releases)**. 
+<center>
+<a href="https://github.com/leadedge/MagicNDI/releases"><b>Download</b></a>  
+</center>
 
 ### NDI addon
 If you want to do your own thing, there is an <a href="https://github.com/leadedge/ofxNDI/" target="_blank">addon for OpenFrameworks</a>  
