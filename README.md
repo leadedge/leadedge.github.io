@@ -7,9 +7,9 @@
 
 ### SPOUT TO NDI
 
-<a href="https://github.com/leadedge/leadedge.github.io/blob/downloads/SpoutToNDI_2005.pdf" target="_blank">Spout to NDI</a> is a set of programs that allow Spout senders and receivers to share video, not only with each other but also by way of a network using the <a href="https://www.ndi.tv/" target="_blank">Newtek NDI</a> (“Network Device Interface”) protocol. Unzip the distribution file to any convenient folder.  
+<a href="https://github.com/leadedge/leadedge.github.io/blob/downloads/SPOUTtoNDI_2006.pdf" target="_blank">Spout to NDI</a> is a set of programs that allow Spout senders and receivers to share video, not only with each other but also by way of a network using the <a href="https://www.ndi.tv/" target="_blank">Newtek NDI</a> (“Network Device Interface”) protocol. Unzip the distribution file to any convenient folder.  
 <center>
-<a href="https://github.com/leadedge/leadedge.github.io/raw/downloads/SpoutToNDI_2005.zip"><b>Download</b></a>  
+<a href="https://github.com/leadedge/leadedge.github.io/raw/downloads/SpoutToNDI_2006.zip"><b>Download</b></a>  
 </center>
 
 ### INSTALLATIONS
