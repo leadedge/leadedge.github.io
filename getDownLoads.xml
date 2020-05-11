@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SpoutToNDI>
+	<Version>2.005</Version>
+	<Location>https://github.com/leadedge/leadedge.github.io/raw/downloads/SpoutToNDI_2005.zip</Location>
+</SpoutToNDI>
+<Spout>
+	<Version>2.006</Version>
+	<Location>https://github.com/leadedge/leadedge.github.io/raw/downloads/Spout_2006_update-2a.zip</Location>
+</Spout>
