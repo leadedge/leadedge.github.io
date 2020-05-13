@@ -22,8 +22,8 @@ Explore my other <a href="https://github.com/leadedge" target="_blank">repositor
 Please visit the <a href="https://spout.discourse.group/" target="_blank">Spout Discourse group</a>.  
  
 ### Donations  
-<center>Make a donation through PayPal 
-Select the amount you would like to donate  
+<center>Make a donation through PayPal<br>
+Select the amount you would like to donate<br>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
 <input type="hidden" />
 <select name="hosted_button_id" size="1"><br>
