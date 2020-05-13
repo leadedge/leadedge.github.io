@@ -26,7 +26,7 @@ Please visit the <a href="https://spout.discourse.group/" target="_blank">Spout 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
 <input type="hidden" />
 <select name="hosted_button_id" size="1"><br>
- <option value="ELERGSYMBQ7AY">I would like to donate</option><br>
+<option value="ELERGSYMBQ7AY">I would like to donate</option><br>
 <option value="ELERGSYMBQ7AY">$10</option><br>
 <option value="W744NJV85V35L">$20</option><br>
 <option value="CEBT3ZXWYL85C">$30</option><br>
