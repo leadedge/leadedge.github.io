@@ -137,6 +137,22 @@ a:active{
   margin: 10px auto;
 }
 
+.projects{
+  background-color: var(--color4);
+  color: var(--textcolor1);
+  top: 0;
+  left: 0;
+  margin:0 0;
+  padding: 5px 20px 10px;
+  text-align: left;
+}
+
+.projects > p{
+  max-width: 640px;
+  margin: 10px auto;
+}
+
+
 .doorway{
   min-height: 210px;
   background-color: var(--color4);

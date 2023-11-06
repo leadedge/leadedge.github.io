@@ -22,12 +22,16 @@ function goBack() {
 <div class="subheading">	
 	<h1>Spout setup</h1>
       
-	<p>The latest update is a new release - Spout 2.007.</br></br>
-	The installation file is part of a GitHub release. Download as instructed, extract to any convenient folder and refer to Setup.pdf in the archive for installation.</br></br>
-	The previous 2.006 download is still available if required for testing <a href="https://github.com/leadedge/leadedge.github.io/raw/downloads/Spout_2006_update-4.zip">here.</a> To change back, run the 2.006 version of SpoutSettings again once. To return to 2.007 do the same in the "Spout 2.007" download folder. You can go back and forth in this way.
+	<p>The <href="https://github.com/leadedge/Spout2/releases">latest Spout release</a> contains a settings application "SpoutSettings"<br>
+	that configures the registry and allows options to be selected.<br>
+	Demonstration programs are also included.</br></br>
+	Download the setup file as instructed.<br>
+	Extract to any convenient folder and refer to "Setup.pdf" for details.
+	</br></br>
+	The previous 2.006 version is still available if required for testing <a href="https://github.com/leadedge/leadedge.github.io/raw/downloads/Spout_2006_update-4.zip">here.</a><br>
+	After testing, run "SpoutSettings" from the latest release.
 	</p>
 	<h2><a href="https://github.com/leadedge/Spout2/releases">Download</a></h2>
-	<br>
 	
 	<p>
 	
@@ -35,16 +39,29 @@ function goBack() {
 
 	<h1>Spout SDK</h1>
 	<p>
-	Download or clone the 2.007 Spout SDK from the <a href="https://github.com/leadedge/Spout2">master branch</a> on GitHub.</br> Existing 2.006 applications can be tested simply by re-building with the revised SDK files.</br>
-	New features will become effective with no code changes.
-	<br>
+	Download or clone the 2.007 Spout SDK from the <a href="https://github.com/leadedge/Spout2">master branch</a> on GitHub.</br>
+	Existing applications can be updated by re-building with the revised SDK files.</br>
 	Revisions will be first uploaded to the <a href="https://github.com/leadedge/Spout2/tree/beta">beta branch</a> for testing.</br>
-	Pull requests will only be accepted using this branch.
+	Pull requests will only be accepted using the Beta branch.
 	<br>
 	
 	</p>
 	<br>
-
+	
+	<h2>SpoutControls</h2>
+	<p>
+	SpoutControls enables a Spout receiver to control a Spout sender.<br> 
+	The project is no longer in active development but can still be used.<br>
+	A C++ class enables a controlled Spout Sender to be developed with
+	C++ or Processing that will react to user controls specific to the application 
+	from a Spout receiver controller.
+	<br><br>
+	<b>SpoutController.dll</b> is a FreeframeGL Spout Receiver plugin that controls a Spout sender. The plugin provided with the original SpoutControls 1.010 <a href="https://github.com/leadedge/leadedge.github.io/raw/downloads/SpoutControls_setup_V1.010.zip">  distribution</a> is built for FreeframeGL 1.6 and requires a compatible host, such as <a href="https://magicmusicvisuals.com/">Magic Music Visuals</a>. 
+	<br><br>
+	This version is not compatible with more recent versions of <a href="https://resolume.com/">Resolume</a> which use FreeframeGL 2. <b>SpoutController2.dll</b> is built with FreeframeGL 2.0 and can be used in place of the FreeframeGL 1.6 version. Unzip the <a href="https://github.com/leadedge/leadedge.github.io/raw/downloads/SpoutControls_V2.023.zip">distribution file</a> to any convenient folder. This contains examples and documentation.<br>
+	</p>
+	<br>
+	
 	<h1>Donations</h1>
 	<p>
 	Spout is open source software and there is no company or income to assist ongoing development, maintenance and support. So please consider becoming a supporter to help keep the project going. All contributions are most welcome.</p>
